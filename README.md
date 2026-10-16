@@ -43,7 +43,7 @@ A garden seen through a sheet of sea glass, tuned for VS Code: **washed-aqua pap
 | Current line | `#FBF2DF` | `#343D3F` |
 | Borders / indent guides | `#D8DFD4` / `#E5E7DD` | `#414D43` / `#404B42` |
 | Button | `#CEEAE8` with `#46553E` text (hover `#BFCEAD`) | `#CEEAE8` with `#2D3C27` text (hover `#DFE8D2`) |
-| Badge | `#71869B` with white text | `#C0E4E1` with `#243638` text |
+| Badge | `#71869B` with `#FFFFFF` text | `#C0E4E1` with `#243638` text |
 | Cursor | `#71869B` | `#F1F9F8` |
 | Links | `#758C58` | `#CED8C2` |
 | Errors / warnings | `#B05E65` / `#9C7B42` | `#E3A4AA` / `#E6CCA0` |
