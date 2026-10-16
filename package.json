@@ -1,0 +1,48 @@
+{
+  "name": "aqua-veil-theme",
+  "displayName": "Aqua Veil Theme",
+  "description": "Washed sea-glass aqua, sage leaves and pressed-flower mauve in coordinated light and dark themes.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "dark",
+    "garden",
+    "sage",
+    "pastel",
+    "vintage"
+  ],
+  "icon": "assets/icon.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "galleryBanner": {
+    "color": "#2B3238",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/aqua-veil-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aqua Veil Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/aqua-veil-light-color-theme.json"
+      },
+      {
+        "label": "Aqua Veil Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aqua-veil-dark-color-theme.json"
+      }
+    ]
+  }
+}
+
+
